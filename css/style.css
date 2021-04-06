@@ -135,4 +135,5 @@ body {
 }
 .fullscreen__link:hover {
    color: wheat;
+   text-decoration: underline;
 }
