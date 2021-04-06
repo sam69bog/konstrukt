@@ -135,6 +135,6 @@ body {
 }
 .fullscreen__link:hover {
    color: rgb(233, 203, 148);
-   text-shadow: 0px 5px 7px #000;
+   text-shadow: 0px 7px 7px #000;
    text-decoration: underline;
 }
